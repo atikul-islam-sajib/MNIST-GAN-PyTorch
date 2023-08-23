@@ -28,10 +28,7 @@ To set up and run the MNIST GAN, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/mnist-gan.git
-cd mnist-gan
-```
-
-```
+````
 
 ## Results
 
