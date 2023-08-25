@@ -45,4 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this README to match your repository's structure and any additional information you'd like to provide. Good luck with your MNIST GAN project!
